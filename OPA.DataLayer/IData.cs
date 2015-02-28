@@ -2,7 +2,7 @@
 
 namespace OPA.DataLayer
 {
-	public class IData
+	public interface IData
 	{
 	}
 }

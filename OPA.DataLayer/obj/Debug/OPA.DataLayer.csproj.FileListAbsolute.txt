@@ -1,0 +1,4 @@
+D:\GitHub\WorkingCopy\Framework\OPA.DataLayer\bin\Debug\OPA.DataLayer.dll
+D:\GitHub\WorkingCopy\Framework\OPA.DataLayer\bin\Debug\OPA.DataLayer.pdb
+D:\GitHub\WorkingCopy\Framework\OPA.DataLayer\obj\Debug\OPA.DataLayer.dll
+D:\GitHub\WorkingCopy\Framework\OPA.DataLayer\obj\Debug\OPA.DataLayer.pdb
